@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff;
+}
+
+ol {
+  padding-left: 1.5%;
+}
+
+li {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.7;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #e3fbe3;
+}
+
+.titleFontStyle {
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  color: #fff;
+
+}
+
+.headerPage {
+  width: 100%;
+  heigth: auto;
+  background-color: #207178;
+}
+
+.positionImage {
+  width: 30%;
+  heigth: auto;
+  margin-bottom: 2%;
+  margin-top: 3%;
+  width: 20%;
+  display: inline-block;
+  padding-left: 5%;
+}
+
+.propsAvatarImage {
+  border-radius: 100%;
+  height: 50%;
+  width: 50%;
+}
+
+.titlePosition {
+  width: auto;
+  height: 100%;
+  display: inline-block;
+}
+
+.positionContainer{
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin-left: 20%;
+}
+
+.subTitle{
+  padding-top: 3%;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+}
